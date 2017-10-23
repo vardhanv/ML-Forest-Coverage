@@ -1,4 +1,5 @@
 # ML-Forest-Coverage
+Machine Learning
 Analyzing Forest Coverage in the Roosevelt National Forest of northern Colorado. From the UC Irivine Dataset
 
 This dataset is available at: https://archive.ics.uci.edu/ml/datasets/covertype
